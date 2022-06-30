@@ -1,1 +1,1 @@
-PAT=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
+PAT=check test branch
